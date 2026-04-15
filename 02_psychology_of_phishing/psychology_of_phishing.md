@@ -26,3 +26,7 @@ Cognitive bias is the tendency to make decisions based on feelings, assumptions,
 - **Authority bias**: This leads people to trust messages from those they see as authority figures without question. An email that comes from a high-ranking official is more likely to be trusted than one from an unknown source.
 
 Understanding these psychological principles is essential for pentesters simulating phishing campaigns. By including tactics like urgency and authority in phishing emails or fake landing pages, pentesters can test how well organisations defend against these social engineering attacks.
+
+## Completed Tasks
+
+![Completed](images/tasks.png)
