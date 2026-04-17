@@ -8,7 +8,7 @@ A documentation of learning about the one vulnerability that no amount of techno
 - The anatomy of a phishing campaign
 - Phishing tools
 
-**Status:** Ongoing
+**Status:** Completed
 
 ## 📚 Topics Covered
 |Module|Topic|
