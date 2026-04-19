@@ -18,11 +18,5 @@ A documentation of learning about the one vulnerability that no amount of techno
 |03|Anatomy of a phishing campaign|
 |05|The social engineering toolkit|
 
-## 🧪 Labs Covered
-
-## 🛠️ Tools Used
-
-## 💡 Sample IOS Commands
-
 ## ⚠️ Disclaimer
 This repository is for **educational purposes only**.
